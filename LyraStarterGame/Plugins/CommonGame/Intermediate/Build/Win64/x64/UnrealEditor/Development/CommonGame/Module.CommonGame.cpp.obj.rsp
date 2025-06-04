@@ -1,12 +1,12 @@
-"C:\Users\furka\OneDrive\Documents\Unreal Projects\LyraStarterGame\Plugins\CommonGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\CommonGame\Module.CommonGame.cpp"
-/FI"C:\Users\furka\OneDrive\Documents\Unreal Projects\LyraStarterGame\Intermediate\Build\Win64\x64\LyraEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
-/FI"C:\Users\furka\OneDrive\Documents\Unreal Projects\LyraStarterGame\Plugins\CommonGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\CommonGame\Definitions.CommonGame.h"
-/Yu"C:\Users\furka\OneDrive\Documents\Unreal Projects\LyraStarterGame\Intermediate\Build\Win64\x64\LyraEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
-/Fp"C:\Users\furka\OneDrive\Documents\Unreal Projects\LyraStarterGame\Intermediate\Build\Win64\x64\LyraEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.pch"
-/Fo"C:\Users\furka\OneDrive\Documents\Unreal Projects\LyraStarterGame\Plugins\CommonGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\CommonGame\Module.CommonGame.cpp.obj"
-/experimental:log "C:\Users\furka\OneDrive\Documents\Unreal Projects\LyraStarterGame\Plugins\CommonGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\CommonGame\Module.CommonGame.cpp.sarif"
-/sourceDependencies "C:\Users\furka\OneDrive\Documents\Unreal Projects\LyraStarterGame\Plugins\CommonGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\CommonGame\Module.CommonGame.cpp.dep.json"
-@"C:\Users\furka\OneDrive\Documents\Unreal Projects\LyraStarterGame\Plugins\CommonGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\CommonGame\CommonGame.Shared.rsp"
+"C:\Users\furka\OneDrive\Documents\GitHub\unreal-lyra-framework\LyraStarterGame\Plugins\CommonGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\CommonGame\Module.CommonGame.cpp"
+/FI"C:\Users\furka\OneDrive\Documents\GitHub\unreal-lyra-framework\LyraStarterGame\Intermediate\Build\Win64\x64\LyraEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
+/FI"C:\Users\furka\OneDrive\Documents\GitHub\unreal-lyra-framework\LyraStarterGame\Plugins\CommonGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\CommonGame\Definitions.CommonGame.h"
+/Yu"C:\Users\furka\OneDrive\Documents\GitHub\unreal-lyra-framework\LyraStarterGame\Intermediate\Build\Win64\x64\LyraEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
+/Fp"C:\Users\furka\OneDrive\Documents\GitHub\unreal-lyra-framework\LyraStarterGame\Intermediate\Build\Win64\x64\LyraEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.pch"
+/Fo"C:\Users\furka\OneDrive\Documents\GitHub\unreal-lyra-framework\LyraStarterGame\Plugins\CommonGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\CommonGame\Module.CommonGame.cpp.obj"
+/experimental:log "C:\Users\furka\OneDrive\Documents\GitHub\unreal-lyra-framework\LyraStarterGame\Plugins\CommonGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\CommonGame\Module.CommonGame.cpp.sarif"
+/sourceDependencies "C:\Users\furka\OneDrive\Documents\GitHub\unreal-lyra-framework\LyraStarterGame\Plugins\CommonGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\CommonGame\Module.CommonGame.cpp.dep.json"
+@"C:\Users\furka\OneDrive\Documents\GitHub\unreal-lyra-framework\LyraStarterGame\Plugins\CommonGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\CommonGame\CommonGame.Shared.rsp"
 /d2ssa-cfg-question-
 /Zc:inline
 /nologo

@@ -2,8 +2,6 @@
 	"RemapUnityFiles": 
 	{
 		"Module.ShooterTestsRuntime.cpp.obj": [
-			"ShooterTestsDevicePropertyTester.gen.cpp.obj",
-			"ShooterTestsRuntime.init.gen.cpp.obj",
 			"PerModuleInline.gen.cpp.obj",
 			"ShooterTestsActorAnimationTests.cpp.obj",
 			"ShooterTestsActorNetworkTests.cpp.obj",
@@ -12,7 +10,9 @@
 			"ShooterTestsRuntimeModule.cpp.obj",
 			"ShooterTestsActorTestHelper.cpp.obj",
 			"ShooterTestsAnimationTestHelper.cpp.obj",
-			"ShooterTestsInputTestHelper.cpp.obj"
+			"ShooterTestsInputTestHelper.cpp.obj",
+			"ShooterTestsDevicePropertyTester.gen.cpp.obj",
+			"ShooterTestsRuntime.init.gen.cpp.obj"
 		]
 	}
 }

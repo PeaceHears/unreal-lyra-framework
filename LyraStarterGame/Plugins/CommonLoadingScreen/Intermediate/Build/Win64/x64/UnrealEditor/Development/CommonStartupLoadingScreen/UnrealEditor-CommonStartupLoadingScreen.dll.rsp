@@ -36,12 +36,9 @@
 /NODEFAULTLIB:"LIBCPD"
 /FUNCTIONPADMIN:6
 /NOIMPLIB
-"C:\Users\furka\OneDrive\Documents\Unreal Projects\LyraStarterGame\Intermediate\Build\Win64\x64\LyraEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
-"C:\Users\furka\OneDrive\Documents\Unreal Projects\LyraStarterGame\Plugins\CommonLoadingScreen\Intermediate\Build\Win64\x64\UnrealEditor\Development\CommonStartupLoadingScreen\Module.CommonStartupLoadingScreen.cpp.obj"
-"C:\Users\furka\OneDrive\Documents\Unreal Projects\LyraStarterGame\Plugins\CommonLoadingScreen\Intermediate\Build\Win64\x64\UnrealEditor\Development\CommonStartupLoadingScreen\CommonPreLoadScreen.cpp.obj"
-"C:\Users\furka\OneDrive\Documents\Unreal Projects\LyraStarterGame\Plugins\CommonLoadingScreen\Intermediate\Build\Win64\x64\UnrealEditor\Development\CommonStartupLoadingScreen\CommonStartupLoadingScreen.cpp.obj"
-"C:\Users\furka\OneDrive\Documents\Unreal Projects\LyraStarterGame\Plugins\CommonLoadingScreen\Intermediate\Build\Win64\x64\UnrealEditor\Development\CommonStartupLoadingScreen\SCommonPreLoadingScreenWidget.cpp.obj"
-"C:\Users\furka\OneDrive\Documents\Unreal Projects\LyraStarterGame\Plugins\CommonLoadingScreen\Intermediate\Build\Win64\x64\UnrealEditor\Development\CommonStartupLoadingScreen\Default.rc2.res"
+"C:\Users\furka\OneDrive\Documents\GitHub\unreal-lyra-framework\LyraStarterGame\Intermediate\Build\Win64\x64\LyraEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"C:\Users\furka\OneDrive\Documents\GitHub\unreal-lyra-framework\LyraStarterGame\Plugins\CommonLoadingScreen\Intermediate\Build\Win64\x64\UnrealEditor\Development\CommonStartupLoadingScreen\Module.CommonStartupLoadingScreen.cpp.obj"
+"C:\Users\furka\OneDrive\Documents\GitHub\unreal-lyra-framework\LyraStarterGame\Plugins\CommonLoadingScreen\Intermediate\Build\Win64\x64\UnrealEditor\Development\CommonStartupLoadingScreen\Default.rc2.res"
 "..\Intermediate\Build\Win64\x64\UnrealEditor\Development\CoreUObject\UnrealEditor-CoreUObject.lib"
 "..\Intermediate\Build\Win64\x64\UnrealEditor\Development\Engine\UnrealEditor-Engine.lib"
 "..\Intermediate\Build\Win64\x64\UnrealEditor\Development\Slate\UnrealEditor-Slate.lib"
@@ -75,6 +72,6 @@
 "synchronization.lib"
 "dwmapi.lib"
 "imm32.lib"
-/OUT:"C:\Users\furka\OneDrive\Documents\Unreal Projects\LyraStarterGame\Plugins\CommonLoadingScreen\Binaries\Win64\UnrealEditor-CommonStartupLoadingScreen.dll"
-/PDB:"C:\Users\furka\OneDrive\Documents\Unreal Projects\LyraStarterGame\Plugins\CommonLoadingScreen\Binaries\Win64\UnrealEditor-CommonStartupLoadingScreen.pdb"
+/OUT:"C:\Users\furka\OneDrive\Documents\GitHub\unreal-lyra-framework\LyraStarterGame\Plugins\CommonLoadingScreen\Binaries\Win64\UnrealEditor-CommonStartupLoadingScreen.dll"
+/PDB:"C:\Users\furka\OneDrive\Documents\GitHub\unreal-lyra-framework\LyraStarterGame\Plugins\CommonLoadingScreen\Binaries\Win64\UnrealEditor-CommonStartupLoadingScreen.pdb"
 /ignore:4078

@@ -1,12 +1,12 @@
-"C:\Users\furka\OneDrive\Documents\Unreal Projects\LyraStarterGame\Plugins\CommonLoadingScreen\Intermediate\Build\Win64\x64\UnrealEditor\Development\CommonLoadingScreen\Module.CommonLoadingScreen.cpp"
-/FI"C:\Users\furka\OneDrive\Documents\Unreal Projects\LyraStarterGame\Intermediate\Build\Win64\x64\LyraEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
-/FI"C:\Users\furka\OneDrive\Documents\Unreal Projects\LyraStarterGame\Plugins\CommonLoadingScreen\Intermediate\Build\Win64\x64\UnrealEditor\Development\CommonLoadingScreen\Definitions.CommonLoadingScreen.h"
-/Yu"C:\Users\furka\OneDrive\Documents\Unreal Projects\LyraStarterGame\Intermediate\Build\Win64\x64\LyraEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
-/Fp"C:\Users\furka\OneDrive\Documents\Unreal Projects\LyraStarterGame\Intermediate\Build\Win64\x64\LyraEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.pch"
-/Fo"C:\Users\furka\OneDrive\Documents\Unreal Projects\LyraStarterGame\Plugins\CommonLoadingScreen\Intermediate\Build\Win64\x64\UnrealEditor\Development\CommonLoadingScreen\Module.CommonLoadingScreen.cpp.obj"
-/experimental:log "C:\Users\furka\OneDrive\Documents\Unreal Projects\LyraStarterGame\Plugins\CommonLoadingScreen\Intermediate\Build\Win64\x64\UnrealEditor\Development\CommonLoadingScreen\Module.CommonLoadingScreen.cpp.sarif"
-/sourceDependencies "C:\Users\furka\OneDrive\Documents\Unreal Projects\LyraStarterGame\Plugins\CommonLoadingScreen\Intermediate\Build\Win64\x64\UnrealEditor\Development\CommonLoadingScreen\Module.CommonLoadingScreen.cpp.dep.json"
-@"C:\Users\furka\OneDrive\Documents\Unreal Projects\LyraStarterGame\Plugins\CommonLoadingScreen\Intermediate\Build\Win64\x64\UnrealEditor\Development\CommonLoadingScreen\CommonLoadingScreen.Shared.rsp"
+"C:\Users\furka\OneDrive\Documents\GitHub\unreal-lyra-framework\LyraStarterGame\Plugins\CommonLoadingScreen\Intermediate\Build\Win64\x64\UnrealEditor\Development\CommonLoadingScreen\Module.CommonLoadingScreen.cpp"
+/FI"C:\Users\furka\OneDrive\Documents\GitHub\unreal-lyra-framework\LyraStarterGame\Intermediate\Build\Win64\x64\LyraEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
+/FI"C:\Users\furka\OneDrive\Documents\GitHub\unreal-lyra-framework\LyraStarterGame\Plugins\CommonLoadingScreen\Intermediate\Build\Win64\x64\UnrealEditor\Development\CommonLoadingScreen\Definitions.CommonLoadingScreen.h"
+/Yu"C:\Users\furka\OneDrive\Documents\GitHub\unreal-lyra-framework\LyraStarterGame\Intermediate\Build\Win64\x64\LyraEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
+/Fp"C:\Users\furka\OneDrive\Documents\GitHub\unreal-lyra-framework\LyraStarterGame\Intermediate\Build\Win64\x64\LyraEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.pch"
+/Fo"C:\Users\furka\OneDrive\Documents\GitHub\unreal-lyra-framework\LyraStarterGame\Plugins\CommonLoadingScreen\Intermediate\Build\Win64\x64\UnrealEditor\Development\CommonLoadingScreen\Module.CommonLoadingScreen.cpp.obj"
+/experimental:log "C:\Users\furka\OneDrive\Documents\GitHub\unreal-lyra-framework\LyraStarterGame\Plugins\CommonLoadingScreen\Intermediate\Build\Win64\x64\UnrealEditor\Development\CommonLoadingScreen\Module.CommonLoadingScreen.cpp.sarif"
+/sourceDependencies "C:\Users\furka\OneDrive\Documents\GitHub\unreal-lyra-framework\LyraStarterGame\Plugins\CommonLoadingScreen\Intermediate\Build\Win64\x64\UnrealEditor\Development\CommonLoadingScreen\Module.CommonLoadingScreen.cpp.dep.json"
+@"C:\Users\furka\OneDrive\Documents\GitHub\unreal-lyra-framework\LyraStarterGame\Plugins\CommonLoadingScreen\Intermediate\Build\Win64\x64\UnrealEditor\Development\CommonLoadingScreen\CommonLoadingScreen.Shared.rsp"
 /d2ssa-cfg-question-
 /Zc:inline
 /nologo
