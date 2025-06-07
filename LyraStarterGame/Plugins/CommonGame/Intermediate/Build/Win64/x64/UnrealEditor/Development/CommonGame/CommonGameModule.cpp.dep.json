@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\furka\\onedrive\\documents\\unreal projects\\lyrastartergame\\plugins\\commongame\\source\\private\\commongamemodule.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\furka\\onedrive\\documents\\unreal projects\\lyrastartergame\\intermediate\\build\\win64\\x64\\lyraeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\furka\\onedrive\\documents\\unreal projects\\lyrastartergame\\plugins\\commongame\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\commongame\\definitions.commongame.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
